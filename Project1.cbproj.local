@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/12/10 02:41:00.000.659,=C:\Users\Brayan\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2022/12/10 02:41:06.000.273,=C:\Users\Brayan\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2022/12/10 13:55:54.000.566,=C:\Users\Brayan\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2022/12/10 13:56:01.000.012,=C:\Users\Brayan\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2022/12/13 11:04:50.000.345,=C:\Users\Brayan\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2022/12/13 11:04:55.000.699,=C:\Users\Brayan\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2022/12/13 14:03:03.000.667,=C:\Users\Brayan\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2022/12/13 14:03:08.000.700,=C:\Users\Brayan\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2022/12/13 14:08:59.000.544,C:\Users\Brayan\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Brayan\Desktop\Clase\Unit1.dfm</Transaction>
+    <Transaction>2022/12/13 14:08:59.000.544,C:\Users\Brayan\Documents\Embarcadero\Studio\Projects\Unit1.h=C:\Users\Brayan\Desktop\Clase\Unit1.h</Transaction>
+    <Transaction>2022/12/13 14:08:59.000.544,C:\Users\Brayan\Documents\Embarcadero\Studio\Projects\Unit1.cpp=C:\Users\Brayan\Desktop\Clase\Unit1.cpp</Transaction>
+    <Transaction>2022/12/13 14:09:01.000.002,C:\Users\Brayan\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Users\Brayan\Desktop\Clase\Project1PCH1.h</Transaction>
+    <Transaction>2022/12/13 14:09:02.000.845,C:\Users\Brayan\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\Brayan\Desktop\Clase\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
